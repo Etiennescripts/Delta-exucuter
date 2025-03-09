@@ -1,0 +1,75 @@
+# Suiryu Animations
+(M1 credits to Anonymous and DraKy)
+M1 In order:
+Suiryu M1 - 1: 17889458563
+Suiryu M1 - 2: 17889461810
+Suiryu M1 - 3: 17889471098
+Suiryu M1 - 4: 17889290569
+Suiryu Spawn: 18435303746
+Suiryu Wall Combo: 18181589384
+Suiryu Wall Combo Victim: 18181159825
+
+Suiryu Bullet Barrage: 17799224866
+Suiryu Bullet Barrage Victim: 17799198808
+Suiryu Bullet Barrage Finisher Start: 18464351556 (credits to Ducker)
+Suiryu Bullet Barrage Finisher End: 18464356233 (credits to Ducker)
+Suiryu Bullet Barrage Finisher Start Victim: 18464353914 (credits to Ducker)
+Suiryu Bullet Barrage Finisher End Victim: 18464358704
+Suiryu Vanishing Kick: 17838006839
+Suiryu Vanishing Kick Second Part: 17838619895 
+Suiryu Vanishing Kick Finisher: 18464372850 (credits to Ducker)
+Suiryu Vanishing Kick Finisher Victim: 18464373968 (credits to Ducker)
+Suiryu Whirlwind Drop: 17857788598
+Suiryu Whirlwind Drop Hit: 17857880283
+Suiryu Whirlwind Drop Finisher: 18464362124 (credits to Ducker)
+Suiryu Head First: 18182425133
+Suiryu Head First Miss: 18179181663
+Suiryu Head First Victim: 18182456608
+Suiryu Head First Victim Air: 18171728577
+Suiryu Head First Finisher: 136370737633649
+Suiryu Head First Finisher Victim: 74844382738532
+
+Suiryu Awk: 18435535291 (credits to Ducker)
+Suiryu Awk End: 18435383478 (credits to Ducker)
+
+Suiryu Awk Grand Fissure: 129651400898906
+Suiryu Awk Grand Fissure Finisher: 94020267622363
+Suiryu Awk Grand Fissure Finisher Victim: 137624104134020
+Suiryu Awk Rising Fist: 18896127525
+Suiryu Awk Rising Fist Miss: 18896124320
+Suiryu Awk Rising Fist Victim: 18896121004
+Suiryu Awk Twin Fangs: 18896229321 (credits to Ducker)
+Suiryu Awk Twin Fangs Miss: 18896232119
+Suiryu Awk Twin Fangs Victim: 18896222853
+Suiryu Awk Earth Splitting Strike start/end: 18897118507 / 18897120868 (credits to Ducker)
+Suiryu Awk Earth Splitting Strike Run: 18897115785
+Suiryu Awk Earth Splitting Strike Miss: 18897119503 (credits to Ducker)
+Suiryu Awk Earth Splitting Strike Victim: 18897121931 (credits to Ducker)
+Suiryu Awk Last Breath: 106755459092436
+Suiryu Awk Last Breath Run: 132259592388175
+Suiryu Awk Last Breath Run 2: 95575238948327
+Suiryu Awk Last Breath Miss: 102814369422840
+Suiryu Awk Last Breath Hit: 75502010126640
+Suiryu Awk Last Breath Hit Victim: 85813428590588
+
+Suiryu Sounds:
+
+m1 swings:rbxassetid://18122956202,rbxassetid://18122956520,rbxassetid://18122955911,rbxassetid://1812295568
+
+m1 hits:rbxassetid://18109164623,rbxassetid://18109164365,rbxassetid://18109164000,rbxassetid://18109163569
+
+ult sounds:rbxassetid://18873326021,rbxassetid://18435322138,rbxassetid://18435420513,rbxassetid://18432749286,rbxassetid://18432748928
+
+rising fist:rbxassetid://18861695950,rbxassetid://18861029548,rbxassetid://18861030337,rbxassetid://18864702570,rbxassetid://18864317277,rbxassetid://18864779399
+
+twin fangs:rbxassetid://18869815885,rbxassetid://18870185872,rbxassetid://18869769700,rbxassetid://18864409550,rbxassetid://18869843291
+
+thats without the hits btw
+
+twin fangs hit:rbxassetid://18863713236,rbxassetid://18863734249
+
+earth splitting strikes no hit:rbxassetid://18871106532,rbxassetid://18871106251,rbxassetid://18871082396,rbxassetid://18871081722,rbxassetid://18871082053
+
+earth splitting strikes hit:rbxassetid://18871106008,rbxassetid://18871224865,rbxassetid://18871255007,rbxassetid://18871345082,rbxassetid://18871212187,rbxassetid://18872160339,rbxassetid://18872283925,rbxassetid://18872518818,rbxassetid://18876959559,rbxassetid://18873892819,rbxassetid://18873857916,rbxassetid://18879019770,rbxassetid://18872869609,rbxassetid://18873035450,rbxassetid://18872810699,rbxassetid://18872811105,rbxassetid://18887328409
+
+wallcombo:rbxassetid://18181173614,rbxassetid://18181173904,rbxassetid://18181083210
